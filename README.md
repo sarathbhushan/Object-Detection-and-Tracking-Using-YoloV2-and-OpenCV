@@ -6,3 +6,8 @@ In this project I wanted to count LPG Cylinders going in and out of a gate. For 
 3. Implementing Centroid tracking on the objects identified, using source code from Pyimageserach
 4. Finally counting the number of cylinders going up and down of a gate.
 
+
+Resources Used:
+https://www.pyimagesearch.com/ - Centroid Tracking
+https://manivannan-ai.medium.com/how-to-train-yolov2-to-detect-custom-objects-9010df784f36 - How to train Yolo V2 on custom Images
+
