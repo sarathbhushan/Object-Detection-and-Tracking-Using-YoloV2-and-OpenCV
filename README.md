@@ -20,7 +20,7 @@ Final Code after having obtained the weights post training on YoloV2:
 #   --output output/webcam_output.avi
 # Add Area movement constraint only significant movement in the area to be considered as movement- Detect when there is no movement--- Zero frame is the frame--- 
 # Multiple detection is an issue Think about it
-
+--------------------------------------------------------------------------
 # import the necessary packages
 from pyimagesearch.centroidtracker import CentroidTracker
 from pyimagesearch.trackableobject import TrackableObject
@@ -402,7 +402,7 @@ else:
 
 # close any open windows
 cv2.destroyAllWindows()
-
+----------------------------------------------------------------------------
 Resources Used:
 https://www.pyimagesearch.com/ - Centroid Tracking
 https://manivannan-ai.medium.com/how-to-train-yolov2-to-detect-custom-objects-9010df784f36 - How to train Yolo V2 on custom Images
