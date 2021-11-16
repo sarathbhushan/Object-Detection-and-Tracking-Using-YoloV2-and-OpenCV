@@ -17,6 +17,8 @@ In this project I wanted to count LPG Cylinders going in and out of a gate. For 
 USAGE
 To read from CCTV and write back out to disk the count of cylinders going in and out of godown.
 
+The sameple output can be seen in this video: https://youtu.be/_MuzGfV8OIA
+
 ----------------------------------------------------------------------------
 Resources Used:
 https://www.pyimagesearch.com/ - Centroid Tracking
