@@ -19,6 +19,8 @@ To read from CCTV and write back out to disk the count of cylinders going in and
 
 The sameple output can be seen in this video: https://youtu.be/_MuzGfV8OIA
 
+The output has been shared with the Hindustan Petroleum Corporation Limited. Who have recognised the efforts with "Best Innovation Award".
+
 ----------------------------------------------------------------------------
 Resources Used:
 https://www.pyimagesearch.com/ - Centroid Tracking
